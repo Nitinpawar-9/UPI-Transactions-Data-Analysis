@@ -1,12 +1,15 @@
 # UPI-Transactions-Data-Analysis
 In This Project where I analyzed UPI transactions using Power BI! 📊✨ This project involved several key steps that enhanced my data visualization skills and provided valuable insights. Here’s a breakdown of the process:
 
-🔄 Loading Data into Power BI Desktop
+##🔄 Loading Data into Power BI Desktop
 I started by importing UPI transaction data, ensuring a smooth transition from raw data to a structured format.
-🔍 Data Profiling
+
+##🔍 Data Profiling
 Conducted thorough data profiling to understand the dataset's characteristics, identifying any anomalies or trends.
-📏 Size & Position of Slicers
+
+##📏 Size & Position of Slicers
 Adjusted the size and position of slicers for optimal user experience, making the dashboard intuitive and easy to navigate.
+
 🎨 Formatting the Slicers
 Enhanced the visual appeal by formatting the slicers, ensuring they align with the overall theme of the report.
 ➕ Adding a Page & Age Group Column
